@@ -1,0 +1,6 @@
+# CyberGreen Institute (cybergreen.net)
+# PTR: ends with scanning.cybergreen.net
+
+define cybergreen_v4 = {
+	52.73.169.169
+}

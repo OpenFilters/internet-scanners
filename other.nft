@@ -1,0 +1,32 @@
+# Scanners that do not belong to any specific organization
+
+define other_v4 = {
+	# benign.internet.survey.scan
+	199.195.248.205,
+	# open-resolver-scan.proper.com
+	174.138.40.30,
+	# scanning-the-internet-for-good.dataprovider.com
+	217.21.193.74,
+	# vxlan.research.plz.connet.email.if.u.have.issus.email.start.admin.at.as208223.eu.org
+	160.25.104.198,
+	160.25.104.201,
+	# "matscan" [no PTR]
+	51.15.34.47,
+	# hilbert-mapper-icmp.b621.net
+	185.230.223.46,
+	# tamiza.es Port Scanning Notice [no PTR]
+	149.100.11.243,
+	# "Global Network Asset Distribution Dashboard" [no PTR]
+	175.6.54.250,
+	# "KittyScan" [no PTR]
+	176.65.148.158,
+	176.65.148.174,
+	176.65.148.4,
+}
+
+define other_v6 = {
+	# "IPv6 Topology Research" [no PTR]
+	2402:4e00:1801:bb00::bb00,
+	# "IPv6 Scan" [no PTR]
+	240e:c2:1800:84:0:1:3:2,
+}

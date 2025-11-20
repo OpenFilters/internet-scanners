@@ -1,0 +1,6 @@
+# CyberCube (cybcube.com)
+# PTR: ends with scanning.cybcube.com
+
+define cybcube_v4 = {
+	66.240.236.109,
+}

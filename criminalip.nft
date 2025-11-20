@@ -1,0 +1,6 @@
+# Criminal IP / AiSpera (criminalip.com/aispera.com)
+# PTR: security.criminalip.com
+
+define criminalip_v4 = {
+	185.242.226.0/24
+}

@@ -1,0 +1,21 @@
+# Internet Research Project (internet-research-project.net)
+# PTR: ends with internet-research-project.net
+# Note: These IPs appear to be temporary and change often. For reference only.
+
+define internetresearchproject_v4 = {
+	45.33.84.152,
+	45.33.84.155,
+	45.33.84.160,
+	45.33.84.177,
+	45.33.84.178,
+	45.33.84.181,
+	45.33.84.189,
+	45.33.84.220,
+	45.33.84.27,
+	45.33.84.40,
+	45.33.84.55,
+	45.33.84.61,
+	45.33.84.73,
+	45.33.84.90,
+	45.33.87.64,
+}

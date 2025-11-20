@@ -1,0 +1,7 @@
+# Scanopticon (scanopticon.com)
+# PTR: optout.scanopticon.com
+
+define scanopticon_v4 = {
+	139.162.190.203,
+	172.104.138.223,
+}

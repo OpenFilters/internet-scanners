@@ -1,0 +1,9 @@
+# Group-IB (rnd.group-ib.com)
+# PTR: rnd.group-ib.com
+
+define groupib_v4 = {
+	80.82.70.118,
+	80.82.70.133,
+	80.82.77.202,
+	93.174.93.12,
+}

@@ -1,0 +1,13 @@
+# Dataplane.org (dataplane.org)
+# PTR: research.dataplane.org
+# Source: https://research.dataplane.org/
+
+define dataplane_v4 = {
+	204.130.133.143,
+	204.130.133.193,
+}
+
+define dataplane_v6 = {
+	2607:fae0:f202:44c::143,
+	2607:fae0:f202:44c::193,
+}

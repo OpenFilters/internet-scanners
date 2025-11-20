@@ -1,0 +1,7 @@
+# ESET Research (eset.com)
+# PTR: internet-scanner.eset.com
+# Source: https://internet-scanner.eset.com/
+
+define eset_v4 = {
+    142.93.146.198,
+}

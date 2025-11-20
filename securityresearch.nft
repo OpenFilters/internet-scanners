@@ -1,0 +1,6 @@
+# securityresearch.net
+# PTR: form.securityresearch.net
+
+define securityresearch_v4 = {
+	144.202.82.88,
+}

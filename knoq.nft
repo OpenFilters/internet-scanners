@@ -1,0 +1,6 @@
+# Knoq (knoq.nl)
+# PTR: research.knoq.nl
+
+define knoq_v4 = {
+	88.80.189.24,
+}

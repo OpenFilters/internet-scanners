@@ -1,0 +1,7 @@
+# Internet Metrics (internet-metrics.com)
+# PTR: ends with internet-metrics.com
+
+define internetmetrics_v4 = {
+	50.116.30.197,
+	96.126.112.111,
+}

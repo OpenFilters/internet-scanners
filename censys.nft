@@ -1,0 +1,23 @@
+# Censys (censys.io/censys.com/censys-scanner.com)
+# User-Agent: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+# PTR: Mix of generic/no PTR and ones that end with censys-scanner.com
+# Source: Filtered from https://docs.censys.com/docs/opt-out-of-data-collection
+
+define censys_v4 = {
+	162.142.125.0/24,
+	167.248.133.0/24,
+	167.94.138.0/24,
+	167.94.145.0/24,
+	167.94.146.0/24,
+	199.45.154.0/23,
+	206.168.32.0/22,
+	66.132.148.0/24,
+	66.132.153.0/24,
+	66.132.159.0/24,
+}
+
+define censys_v6 = {
+	2602:80d:1000::/48,
+	2602:80d:1006::/48,
+	2620:96:e000::/48,
+}

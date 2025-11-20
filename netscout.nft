@@ -1,0 +1,7 @@
+# NETSCOUT (internet-albedo.net)
+# PTR: www.internet-albedo.net
+# Source: https://www.internet-albedo.net/
+
+define netscout_v4 = {
+	146.88.240.0/23
+}

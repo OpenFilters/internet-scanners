@@ -1,0 +1,6 @@
+# pocnroll (pocnroll.com)
+# PTR: research.pocnroll.com
+
+define pocnroll_v4 = {
+	45.79.38.219,
+}

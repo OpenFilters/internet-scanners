@@ -1,0 +1,6 @@
+# InterneTTL (internettl.org)
+# PTR: internettl.org
+
+define internettl_v4 = {
+	104.152.52.0/24
+}

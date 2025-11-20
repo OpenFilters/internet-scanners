@@ -1,0 +1,12 @@
+# Alpha Strike Labs (alphastrike.io)
+# Does not identify via PTR!
+# Source: Ranges assigned to "Alpha Strike Labs GmbH"
+
+define alphastrike_v4 = {
+	194.187.176.0/22,
+	45.83.64.0/22,
+}
+
+define alphastrike_v6 = {
+	2a0e:7b84::/30,
+}

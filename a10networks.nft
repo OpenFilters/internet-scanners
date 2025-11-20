@@ -1,0 +1,17 @@
+# A10 Networks (a10protects.com/a10networks.com)
+# PTR: ends with research.a10protects.com
+# Note: These IPs appear to be temporary and change often. For reference only.
+
+define a10networks_v4 = {
+	109.74.200.32,
+	139.162.228.125,
+	139.162.30.51,
+	172.105.64.245,
+	173.230.135.45,
+	173.255.196.154,
+	173.255.235.156,
+	185.3.95.35,
+	192.53.122.19,
+	50.116.22.140,
+	72.14.190.110,
+}
