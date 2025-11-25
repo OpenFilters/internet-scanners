@@ -2,6 +2,7 @@
 # Does not identify via PTR!
 # User-Agent: Mozilla/OnlyScans (optout@onlyscans.com)
 # User-Agent: Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);
+#mark:outdated, update with new collector data
 
 define onlyscans_v4 = {
 	104.248.150.225,

@@ -1,6 +1,7 @@
 # Cyble ODIN (odin.io)
 # Does not identify via PTR!
 # User-Agent: Mozilla/5.0 (compatible; Odin; https://docs.getodin.com/)
+#mark:outdated, update with new collector data
 
 define odin_v4 = {
 	104.248.119.235,

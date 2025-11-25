@@ -1,5 +1,6 @@
 # 360 Quake (quake.360.net)
 # Does not identify via PTR!
+#mark:outdated, update with new collector data
 
 define quake_v4 = {
 	1.192.192.4,

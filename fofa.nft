@@ -1,5 +1,6 @@
 # FOFA Search Engine (fofa.info)
 # Does not identify via PTR!
+#mark:outdated, update with new collector data
 
 define fofa_v4 = {
 	101.36.111.60,

@@ -1,6 +1,7 @@
 # IPinfo Internet Census Data Collection (ipinfo.io)
 # PTR: Mix of generic/no PTR and ones that end with ipinfo.io
 # IP Redirect to https://ipinfo.io/census
+#mark:outdated, update with new collector data
 
 define ipinfo_v4 = {
 	102.130.49.212,

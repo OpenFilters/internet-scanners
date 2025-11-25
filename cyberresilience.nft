@@ -1,5 +1,6 @@
 # CyberResilience (cyberresilience.io)
 # PTR: ends with cyberresilience.io
+#mark:outdated, update with new collector data
 
 define cyberresilience_v4 = {
 	138.68.71.68,

@@ -1,13 +1,17 @@
 # Palo Alto Networks / Cortex Xpanse (paloaltonetworks.com / xpanse.co)
 # Does not identify via PTR!
 # User-Agent: Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+# User-Agent: Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity
+# Source: Filtered from https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity
 
 define paloaltonetworks_v4 = {
-	35.203.210.0/23,
+	144.86.173.0/24,
 	147.185.132.0/22,
 	162.216.148.0/22,
+	172.105.147.0/24,
 	198.235.24.0/24,
 	205.210.31.0/24,
+	35.203.210.0/23,
 }
 
 define paloaltonetworks_v6 = {
