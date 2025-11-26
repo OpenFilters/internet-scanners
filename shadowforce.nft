@@ -1,9 +1,11 @@
 # Shadowforce / Baffin Bay Networks Data Acquisition and Threat Research (shadowforce.io / baffinbay.com / baffinaybaynetworks.com)
 # PTR: ends with baffinaybaynetworks.com or shadowforce.io
-# Source: Ranges assigned to AS208583
+# Source: Ranges assigned to AS208583, some from other cloud providers
 
 define shadowforce_v4 = {
 	192.165.198.0/24,
 	193.181.177.0/24,
-	193.235.193.0/24
+	193.235.193.0/24,
+	152.42.136.22,
+	159.65.206.235,
 }

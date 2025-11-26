@@ -1,7 +1,6 @@
 # IPIP (ipip.net)
 # User-Agent: HTTP Banner Detection (https://security.ipip.net)
 # PTR: ends with ipip.net
-#mark:outdated, update with new collector data
 
 define ipip_v4 = {
 	103.16.131.136,

@@ -4,9 +4,9 @@
 # Source: https://www.nokia.com/genomecrawler/
 
 define deepfield_v4 = {
-	104.234.115.0/24
+	216.180.246.0/24
 }
 
 define deepfield_v6 = {
-	2620:ce:e000::/48
+	2620:ce:e000::/44
 }

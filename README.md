@@ -1,8 +1,3 @@
-This project has been discontinued, as such, the lists will no longer be updated.
-
-Anyone is free to continue the project, the data has been released as public domain.
-#
-#
 # IP Lists of internet-wide scanning organizations
 List of IPs belonging to common internet-wide scanning organizations.
 

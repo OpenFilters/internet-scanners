@@ -1,6 +1,5 @@
 # ZoomEye (zoomeye.ai)
 # Does not identify via PTR!
-#mark:outdated, update with new collector data
 
 define zoomeye_v4 = {
 	148.153.188.246,
@@ -16,5 +15,4 @@ define zoomeye_v4 = {
 	165.154.23.177,
 	222.186.13.130,
 	36.156.22.4,
-	54.197.56.163,
 }

@@ -1,7 +1,6 @@
 # Stretchoid (stretchoid.com)
 # Common signature: MGLNDD_IP.ADDRESS_PORT (e.g: MGLNDD_1.0.0.1_53)
 # PTR: Mix of generic/no PTR and ones that end with stretchoid.com
-#mark:outdated, update with new collector data
 
 define stretchoid_v4 = {
 	104.40.52.179,

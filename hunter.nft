@@ -1,6 +1,5 @@
 # Hunter Search Engine (hunter.how / hunter.qianxin.com)
 # Does not identify via PTR!
-#mark:outdated, update with new collector data
 
 define hunter_v4 = {
 	101.200.243.197,
