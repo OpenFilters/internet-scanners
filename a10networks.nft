@@ -3,7 +3,11 @@
 # Note: These IPs appear to be temporary and change often. For reference only.
 
 define a10networks_v4 = {
-	192.46.224.16,
+	109.74.194.214,
 	139.162.152.75,
+	172.105.99.173,
+	192.46.224.16,
+	198.74.52.86,
 	45.33.99.200,
+	45.79.180.101,
 }

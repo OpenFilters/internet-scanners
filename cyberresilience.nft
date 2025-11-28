@@ -2,5 +2,7 @@
 # PTR: ends with cyberresilience.io
 
 define cyberresilience_v4 = {
-	143.244.152.105
+	134.209.86.24,
+	143.244.152.105,
+	192.241.154.87,
 }

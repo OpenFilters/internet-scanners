@@ -22,11 +22,16 @@ define other_v4 = {
 	176.65.148.158,
 	176.65.148.174,
 	176.65.148.4,
+	# scan.kolovrat.net
+	78.159.130.8,
+	# "scan.f6.security"
+	176.32.195.85,
+	46.161.50.108,
+	5.101.64.6,
+	95.215.0.144,
 }
 
 define other_v6 = {
-	# "IPv6 Topology Research" [no PTR]
-	2402:4e00:1801:bb00::bb00,
 	# "IPv6 Scan" [no PTR]
 	240e:c2:1800:84:0:1:3:2,
 }

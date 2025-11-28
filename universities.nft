@@ -159,6 +159,10 @@ define universities_v4 = {
 	# KU Leuven
 	3.80.87.6,
 	54.144.56.9,
+	# University of Vienna
+	81.16.152.2,
+	51.161.130.146,
+	51.79.50.134,
 }
 
 define universities_v6 = {
@@ -251,4 +255,11 @@ define universities_v6 = {
 	2001:da8:ff:212::7:8,
 	# KU Leuven
 	2600:1f18:2869:9b00:bec4:73f4:9a4e:18ce,
+	# University of Vienna
+	2a01:190:151a:1::5ba:100,
+	2a01:190:151a:1::5ba:200,
+	2a01:190:151a:1::5ba:201,
+	2a01:190:151a:1::5ba:202,
+	2402:1f00:8100:400::1d66,
+	2607:5300:205:200::2b1e,
 }
