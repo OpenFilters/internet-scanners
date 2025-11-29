@@ -24,6 +24,7 @@ List currently contains data for the following organizations:
 - Cypex (cypex.ai)
 - Dataplane.org (dataplane.org)
 - Driftnet (driftnet.io/internet-measurement.com)
+- Edgewatch Security Intelligence (edgewatch.com)
 - ESET Research (eset.com)
 - FOFA Search Engine (fofa.info)
 - Group-IB (rnd.group-ib.com)

@@ -1,0 +1,6 @@
+# Edgewatch Security Intelligence (edgewatch.com)
+# PTR: ends with edgewatch.com
+
+define edgewatch_v4 = {
+    185.114.175.0/24,
+}
