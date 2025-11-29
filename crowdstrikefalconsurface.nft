@@ -3,6 +3,7 @@
 # IPs contain webpage stating: "CrowdStrike Falcon Surface continuously maps the entire internet to discover and eliminate known and unknown exposures, shadow IT risks and supply chain threats in real time."
 
 define crowdstrikefalconsurface_v4 = {
+	18.97.19.128/25,
 	18.97.26.0/24,
 	18.97.5.0/25,
 	44.220.185.0/24,
