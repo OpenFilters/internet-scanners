@@ -66,25 +66,26 @@ The `other` file contains scanners that do not belong to any specific organizati
 
 In addition, scanners from the following educational institutions are also included:
 - Cambridge Cybercrime Centre
+- Esslingen University
 - Georgia Institute of Technology
 - KU Leuven
 - Louisiana State University
 - Max Planck Institute for Informatics
 - Paderborn University
-- RWTH Aachen University
 - Ruhr University Bochum
+- RWTH Aachen University
 - Stanford University
-- TUD Dresden University of Technology
 - Technical University of Applied Sciences Augsburg
 - Technical University of Denmark
 - Technical University of Munich
 - Tsinghua University
-- USC/ISI
-- University of Memphis
+- TUD Dresden University of Technology
 - University of Applied Sciences Muenster
 - University of California
 - University of Maryland
+- University of Memphis
 - University of Michigan
 - University of Southern California
 - University of Twente
+- USC/ISI
 - Virginia Tech

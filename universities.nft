@@ -163,6 +163,9 @@ define universities_v4 = {
 	81.16.152.2,
 	51.161.130.146,
 	51.79.50.134,
+	# Esslingen University
+	66.240.192.82,
+	66.240.192.83,
 }
 
 define universities_v6 = {
