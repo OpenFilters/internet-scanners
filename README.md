@@ -29,6 +29,7 @@ List currently contains data for the following organizations:
 - FOFA Search Engine (fofa.info)
 - Group-IB (rnd.group-ib.com)
 - Hadrian (hdrn.nu / hadrian.io)
+- HSPO (hspo.io)
 - Hunter Search Engine (hunter.how / hunter.qianxin.com)
 - Internet Metrics (internet-metrics.com)
 - Internet Research Project (internet-research-project.net)
