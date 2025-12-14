@@ -1,5 +1,5 @@
 # IPinfo Internet Census Data Collection (ipinfo.io)
-# PTR: Mix of generic/no PTR and ones that end with ipinfo.io
+# PTR: Mix of generic/no PTR and ones that end with ipinfo.io/other TLDs
 # IP Redirect to https://ipinfo.io/census
 
 define ipinfo_v4 = {
@@ -67,6 +67,7 @@ define ipinfo_v4 = {
 	103.6.87.143,
 	103.67.236.15,
 	103.68.251.69,
+	103.75.119.54,
 	103.76.182.141,
 	103.9.77.7,
 	104.128.189.36,
