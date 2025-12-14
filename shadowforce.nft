@@ -3,6 +3,7 @@
 # Source: Ranges assigned to AS208583, some from other cloud providers
 
 define shadowforce_v4 = {
+	142.93.135.160,
 	146.190.21.73,
 	152.42.136.22,
 	159.223.231.254,
