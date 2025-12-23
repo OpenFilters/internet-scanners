@@ -33,6 +33,8 @@ define other_v4 = {
 	192.3.138.26,
 	# "202.112.47.54 for research"
 	202.112.47.54,
+	# ip-whois-crawler.ipgeolocation.io
+	176.9.9.142,
 }
 
 define other_v6 = {
