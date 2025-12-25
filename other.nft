@@ -10,8 +10,9 @@ define other_v4 = {
 	# vxlan.research.plz.connet.email.if.u.have.issus.email.start.admin.at.as208223.eu.org
 	160.25.104.198,
 	160.25.104.201,
-	# "matscan" [no PTR]
+	# "matscan" Minecraft server scanning [no PTR]
 	51.15.34.47,
+	92.119.164.120,
 	# hilbert-mapper-icmp.b621.net
 	185.230.223.46,
 	# tamiza.es Port Scanning Notice [no PTR]
