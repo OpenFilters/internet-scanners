@@ -40,6 +40,13 @@ define other_v4 = {
 	# "slowstack.tv" Minecraft server scanning [no PTR]
 	51.159.149.103,
 	51.159.110.167,
+	# "scansearch.net" [no PTR]
+	62.210.113.114,
+	62.210.113.137,
+	62.210.113.33,
+	62.210.113.89,
+	62.210.114.25,
+	80.82.65.213,
 }
 
 define other_v6 = {
