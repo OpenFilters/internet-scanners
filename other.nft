@@ -20,7 +20,7 @@ define other_v4 = {
 	149.100.11.243,
 	# "Global Network Asset Distribution Dashboard" [no PTR]
 	175.6.54.250,
-	# "KittyScan" [no PTR]
+	# "KittyScan" Minecraft server scanning [no PTR]
 	176.65.148.158,
 	176.65.148.174,
 	176.65.148.4,
@@ -37,6 +37,8 @@ define other_v4 = {
 	202.112.47.54,
 	# ip-whois-crawler.ipgeolocation.io
 	176.9.9.142,
+	# "slowstack.tv" Minecraft server scanning [no PTR]
+	51.159.149.103,
 }
 
 define other_v6 = {
