@@ -1,0 +1,8 @@
+# Hacker Target Pty Ltd (hackertarget.com / hackertarget.io)
+# PTR: survey##.hackertarget.io
+
+define hackertarget_v4 = {
+    143.198.179.104,
+    159.223.98.198,
+    198.211.109.100,
+}

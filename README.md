@@ -28,6 +28,7 @@ List currently contains data for the following organizations:
 - ESET Research (eset.com)
 - FOFA Search Engine (fofa.info)
 - Group-IB (rnd.group-ib.com)
+- Hacker Target Pty Ltd (hackertarget.com / hackertarget.io)
 - Hadrian (hdrn.nu / hadrian.io)
 - HSPO (hspo.io)
 - Hunter Search Engine (hunter.how / hunter.qianxin.com)
@@ -61,6 +62,7 @@ List currently contains data for the following organizations:
 - Stretchoid (stretchoid.com)
 - Tenable ASM (tenable.com / tenable.io)
 - The Shadowserver Foundation (shadowserver.org)
+- VisionHeight (visionheight.com)
 - ZoomEye (zoomeye.ai)
 
 The `other` file contains scanners that do not belong to any specific organization.
