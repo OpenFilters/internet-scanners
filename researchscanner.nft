@@ -2,6 +2,7 @@
 # PTR: ends with research-scanner.com
 
 define researchscanner_v4 = {
+	138.197.101.95,
 	138.68.249.116,
 	157.245.176.143,
 	157.245.252.5,
