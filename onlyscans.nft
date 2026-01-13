@@ -4,6 +4,7 @@
 # User-Agent: Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);
 
 define onlyscans_v4 = {
+	107.170.52.232,
 	107.170.53.235,
 	107.170.63.196,
 	134.199.146.133,
