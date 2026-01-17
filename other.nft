@@ -47,6 +47,10 @@ define other_v4 = {
 	62.210.113.89,
 	62.210.114.25,
 	80.82.65.213,
+	# DNS Research at Team Cymru / dnsresearch.cymru.com
+	216.31.13.40,
+	216.31.13.41,
+	216.31.13.42,
 }
 
 define other_v6 = {
