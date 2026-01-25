@@ -51,6 +51,11 @@ define other_v4 = {
 	216.31.13.40,
 	216.31.13.41,
 	216.31.13.42,
+	# Internet Scanning Project / internetresearch.center
+	24.144.104.6,
+	64.227.10.52,
+	64.227.18.98,
+	68.183.16.131,
 }
 
 define other_v6 = {
