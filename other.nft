@@ -56,6 +56,9 @@ define other_v4 = {
 	216.31.13.40,
 	216.31.13.41,
 	216.31.13.42,
+	216.31.13.43,
+	# NTP Research at Team Cymru [no PTR]
+	216.31.0.17,
 	# Internet Scanning Project / internetresearch.center
 	159.65.237.176,
 	24.144.104.6,
@@ -78,6 +81,10 @@ define other_v4 = {
 	193.227.109.72,
 	# mcscanner.flaffy.dev Minecraft server scanning [no PTR]
 	107.170.10.90,
+	# GameJanitor Network Scanner / scan.gamejanitor.net
+	51.68.38.150,
+	# mcscans Minecraft server scanning [no PTR]
+	87.121.84.28,
 }
 
 define other_v6 = {

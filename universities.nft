@@ -100,6 +100,8 @@ define universities_v4 = {
 	173.253.128.10,
 	# University of Maryland
 	128.8.124.68,
+	134.209.63.62,
+	144.126.196.115,
 	# Paderborn University
 	192.26.189.4,
 	192.26.189.5,
