@@ -1,0 +1,10 @@
+# Infrawatch (infrawat.ch / infrawatch.com / infrawatch.app)
+# PTR: ends with infrawat.ch
+# User-Agent: Mozilla/5.0 (compatible; Infrawatch/1.0; +https://infrawat.ch/)
+
+define infrawatch_v4 = {
+    193.176.31.144/28,
+    194.88.98.80/28,
+    195.140.214.16/28,
+    37.10.113.208/28,
+}

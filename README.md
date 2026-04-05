@@ -33,6 +33,7 @@ List currently contains data for the following organizations:
 - Hacker Target Pty Ltd (hackertarget.com / hackertarget.io)
 - Hadrian (hdrn.nu / hadrian.io)
 - Hunter Search Engine (hunter.how / hunter.qianxin.com)
+- Infrawatch (infrawat.ch / infrawatch.com)
 - Internet Metrics (internet-metrics.com)
 - Internet Research Project (internet-research-project.net)
 - InterneTTL (internettl.org)

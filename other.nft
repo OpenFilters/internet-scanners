@@ -84,6 +84,7 @@ define other_v4 = {
 	# umai.entelijan.com AI endpoint scanner [no PTR]
 	104.243.35.120,
 	104.243.35.92,
+	104.243.32.126,
 	# scanner.ping-dash.com
 	32.193.229.248,
 }
