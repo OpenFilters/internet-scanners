@@ -82,9 +82,10 @@ define other_v4 = {
 	# minecraftserversearch.com Minecraft server scanning [no PTR]
 	161.97.66.69,
 	# umai.entelijan.com AI endpoint scanner [no PTR]
+	104.243.32.126,
 	104.243.35.120,
 	104.243.35.92,
-	104.243.32.126,
+	185.150.191.165,
 	# scanner.ping-dash.com
 	32.193.229.248,
 }
