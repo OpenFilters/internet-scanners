@@ -104,11 +104,8 @@ define other_v4 = {
 	# Internet Research Detection - IPTruth [no PTR]
 	154.30.3.68,
 	159.195.79.176,
-	172.93.167.145,
-	173.254.217.6,
-	185.200.65.41,
-	194.127.192.100,
 	2.59.255.74,
+	67.215.228.63,
 	# scan-us-east-1.lyqent.com
 	174.129.205.0,
 	# laburityreports.com Security Research Notice [no PTR]
