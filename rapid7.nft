@@ -1,11 +1,16 @@
 # Rapid7 Project Sonar (rapid7.com)
 # PTR: scanners.labs.rapid7.com
+# PTR: scanner[1-6].labs.rapid7.com
 # Source: https://opendata.rapid7.com/about/, scanners.labs.rapid7.com AAAA records
 
 define rapid7_v4 = {
 	109.123.117.224/27,
 	146.185.25.160/27,
+	173.255.225.139,
+	45.79.190.10,
 	5.63.151.96/27,
+	66.175.212.77,
+	66.228.41.127,
 	71.6.233.0/24,
 	88.202.190.128/27,
 }

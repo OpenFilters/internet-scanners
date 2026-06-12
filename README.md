@@ -34,6 +34,7 @@ List currently contains data for the following organizations:
 - Hadrian (hdrn.nu / hadrian.io)
 - Hunter Search Engine (hunter.how / hunter.qianxin.com)
 - Infrawatch (infrawat.ch / infrawatch.com)
+- Internet Measurement Research (internetmeasurementresearch.com)
 - Internet Metrics (internet-metrics.com)
 - Internet Research Project (internet-research-project.net)
 - InterneTTL (internettl.org)
