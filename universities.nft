@@ -39,6 +39,7 @@ define universities_v4 = {
 	185.73.23.151,
 	185.73.23.154,
 	185.73.23.155,
+	185.73.23.162,
 	# University of Applied Sciences Muenster
 	193.174.89.19,
 	# Virginia Tech
@@ -91,6 +92,8 @@ define universities_v4 = {
 	141.76.94.17,
 	141.76.94.18,
 	141.76.94.31,
+	141.76.94.37,
+	141.76.94.38,
 	# RWTH Aachen University
 	137.226.113.0/26,
 	# University of Michigan
@@ -173,6 +176,8 @@ define universities_v4 = {
 	148.72.152.210,
 	# Polytechnic University of Milan
 	131.175.55.101,
+	# University of California - Santa Barbara
+	192.35.222.19,
 }
 
 define universities_v6 = {
@@ -272,4 +277,6 @@ define universities_v6 = {
 	2a01:190:151a:1::5ba:202,
 	2402:1f00:8100:400::1d66,
 	2607:5300:205:200::2b1e,
+	# Ruhr University Bochum
+	2a05:3e07:801::a2,
 }

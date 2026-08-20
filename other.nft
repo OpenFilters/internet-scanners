@@ -88,22 +88,8 @@ define other_v4 = {
 	# minecraftserversearch.com Minecraft server scanning [no PTR]
 	161.97.66.69,
 	207.180.222.7,
-	# umai.entelijan.com AI endpoint scanner [no PTR] (Umai-Scanner/2.0)
-	104.243.32.126,
-	104.243.32.235,
-	104.243.34.165,
-	104.243.35.104,
-	104.243.35.120,
-	104.243.35.45,
-	104.243.35.92,
-	104.243.35.94,
-	104.243.43.19,
-	104.243.43.7,
-	172.93.106.153,
-	185.150.191.165,
-	185.150.191.236,
-	206.221.176.60,
-	209.222.101.194,
+	# Entelijan Inc. / scanner-xx.entelijan.com
+	192.158.140.0/24,
 	# scanner.ping-dash.com
 	32.193.229.248,
 	# Internet Research Detection - IPTruth [no PTR]
@@ -149,6 +135,12 @@ define other_v4 = {
 	45.205.1.245,
 	45.205.1.246,
 	45.205.1.247,
+	# scan01.cyberscan.io
+	130.193.25.11,
+	# scan.recover-entry.online
+	107.170.75.78,
+	# "About this DNS measurement traffic" [no PTR]
+	47.253.116.19,
 }
 
 define other_v6 = {
