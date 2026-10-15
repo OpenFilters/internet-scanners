@@ -7,25 +7,21 @@ define other_v4 = {
 	174.138.40.30,
 	# scanning-the-internet-for-good.dataprovider.com
 	217.21.193.74,
-	# vxlan.research.plz.connet.email.if.u.have.issus.email.start.admin.at.as208223.eu.org
-	160.25.104.198,
-	160.25.104.201,
-	# "matscan" Minecraft server scanning [no PTR]
+	# "matscan" Minecraft server scanning [no PTR, User-Agent: Mozilla/5.0 (compatible; matscan/0.2; +https://github.com/mat-1/matscan)]
+	176.65.148.226,
+	176.65.148.253,
+	176.65.149.198,
 	51.15.34.47,
+	78.232.50.178,
 	# hilbert-mapper-icmp.b621.net
 	185.230.223.46,
-	# tamiza.es Port Scanning Notice [no PTR]
-	149.100.11.243,
 	# "Global Network Asset Distribution Dashboard" [no PTR]
 	175.6.54.250,
 	# "KittyScan" Minecraft server scanning [no PTR]
 	176.65.148.158,
 	176.65.148.174,
 	176.65.148.4,
-	# scan.kolovrat.net
-	78.159.130.8,
 	# "scan.f6.security"
-	176.32.195.85,
 	45.91.64.6,
 	45.91.64.7,
 	45.91.64.8,
@@ -34,8 +30,6 @@ define other_v4 = {
 	5.101.64.6,
 	95.215.0.144,
 	95.215.0.145,
-	# lumeweaver.com
-	192.3.138.26,
 	# "202.112.47.54 for research"
 	202.112.47.54,
 	# "202.112.47.150 for research"
@@ -45,6 +39,7 @@ define other_v4 = {
 	# "slowstack.tv" Minecraft server scanning [no PTR]
 	51.159.149.103,
 	51.159.110.167,
+	204.76.203.4,
 	# "scansearch.net" [no PTR]
 	160.119.76.40,
 	160.119.76.42,
@@ -68,26 +63,6 @@ define other_v4 = {
 	68.183.16.131,
 	# BarkScan / barkscan.com [no PTR]
 	185.107.80.93,
-	# etl.hu research scanner [no PTR]
-	195.228.45.175,
-	# TelcoScan [no PTR]
-	172.104.128.26,
-	172.105.36.32,
-	194.195.253.7,
-	# scanner.craftprobe.lv Minecraft server scanning
-	5.161.43.60,
-	# Internet Telemetry & Mapping Project @ matalab.de [no PTR]
-	193.227.109.29,
-	193.227.109.72,
-	# mcscanner.flaffy.dev Minecraft server scanning [no PTR]
-	107.170.10.90,
-	# GameJanitor Network Scanner / scan.gamejanitor.net
-	51.68.38.150,
-	# mcscans Minecraft server scanning [no PTR]
-	87.121.84.28,
-	# minecraftserversearch.com Minecraft server scanning [no PTR]
-	161.97.66.69,
-	207.180.222.7,
 	# Entelijan Inc. / scanner-xx.entelijan.com
 	192.158.140.0/24,
 	# scanner.ping-dash.com
@@ -101,8 +76,6 @@ define other_v4 = {
 	204.44.125.237,
 	67.215.228.63,
 	84.75.255.71,
-	# scan-us-east-1.lyqent.com
-	174.129.205.0,
 	# laburityreports.com Security Research Notice [no PTR]
 	5.189.167.246,
 	# FlowIQLabsBot / flowiq-labs.com [no PTR]
@@ -129,10 +102,12 @@ define other_v4 = {
 	151.243.11.9,
 	16.5.0.132,
 	16.5.0.133,
+	16.5.0.234,
 	16.5.0.237,
 	16.5.0.238,
 	16.5.0.239,
 	16.5.0.240,
+	16.5.0.241,
 	16.5.0.242,
 	16.5.0.244,
 	16.5.0.245,
@@ -173,6 +148,8 @@ define other_v4 = {
 	47.253.116.19,
 	# scanner.radar.qrator.net
 	185.94.111.1,
+	# scanner.mcdb.app Minecraft server scanning
+	2.59.21.51,
 }
 
 define other_v6 = {
