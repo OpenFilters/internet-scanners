@@ -30,6 +30,7 @@ List currently contains data for the following organizations:
 - Driftnet (driftnet.io / internet-measurement.com, previously cyber.casa)
 - Edgewatch Security Intelligence (edgewatch.com)
 - ESET Research (eset.com)
+- FlowIQ Labs (flowiq-labs.com)
 - FOFA Search Engine (fofa.info)
 - Group-IB (rnd.group-ib.com / asm.group-ib.com)
 - Hacker Target Pty Ltd (hackertarget.com / hackertarget.io)
@@ -70,6 +71,7 @@ List currently contains data for the following organizations:
 - Tenable ASM (tenable.com / tenable.io)
 - The Shadowserver Foundation (shadowserver.org)
 - tttx (tttx.net)
+- VirusTotal (virustotal.com)
 - VisionHeight (visionheight.com)
 - XMCO Serenety (xmco.fr)
 - ZERN (zern.io)
@@ -95,6 +97,7 @@ In addition, scanners from the following educational institutions are also inclu
 - Ruhr University Bochum
 - RWTH Aachen University
 - Stanford University
+- Stony Brook University
 - Technical University of Applied Sciences Augsburg
 - Technical University of Denmark
 - Technical University of Munich

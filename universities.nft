@@ -41,6 +41,7 @@ define universities_v4 = {
 	185.73.23.155,
 	185.73.23.161,
 	185.73.23.162,
+	185.73.23.168,
 	# University of Applied Sciences Muenster
 	193.174.89.19,
 	# Virginia Tech
@@ -179,6 +180,8 @@ define universities_v4 = {
 	131.175.55.101,
 	# University of California - Santa Barbara
 	192.35.222.19,
+	# Stony Brook University
+	130.245.42.162,
 }
 
 define universities_v6 = {
