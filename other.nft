@@ -88,6 +88,8 @@ define other_v4 = {
 	185.94.111.1,
 	# scanner.mcdb.app Minecraft server scanning
 	2.59.21.51,
+	# Security Research Traffic Notice [no PTR]
+	138.197.90.201,
 }
 
 define other_v6 = {
