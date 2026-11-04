@@ -2,5 +2,6 @@
 # PTR: security.criminalip.com
 
 define criminalip_v4 = {
-	185.242.226.0/24
+	185.242.226.0/24,
+	45.140.222.0/24
 }

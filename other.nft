@@ -90,6 +90,12 @@ define other_v4 = {
 	2.59.21.51,
 	# Security Research Traffic Notice [no PTR]
 	138.197.90.201,
+	# ipbase-scanner [no PTR]
+	185.218.100.133,
+	# "Swamp Internet Survey" [no PTR]
+	79.124.62.10,
+	# scanner1.gitlantern.com
+	2.31.155.11,
 }
 
 define other_v6 = {
