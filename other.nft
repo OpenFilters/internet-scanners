@@ -11,6 +11,7 @@ define other_v4 = {
 	176.65.148.226,
 	176.65.148.253,
 	176.65.149.198,
+	198.46.182.214,
 	51.15.34.47,
 	78.232.50.178,
 	# hilbert-mapper-icmp.b621.net
@@ -93,6 +94,7 @@ define other_v4 = {
 	# ipbase-scanner [no PTR]
 	185.218.100.133,
 	# "Swamp Internet Survey" [no PTR]
+	79.124.58.134,
 	79.124.62.10,
 	# scanner1.gitlantern.com
 	2.31.155.11,
