@@ -67,6 +67,7 @@ List currently contains data for the following organizations:
 - securityresearch.net
 - Shadowforce / Baffin Bay Networks Data Acquisition and Threat Research (shadowforce.io / baffinbay.com / baffinaybaynetworks.com)
 - Shodan (shodan.io)
+- Silent Push (silentpush.com)
 - Stretchoid (stretchoid.com)
 - Synthient (synthient.com)
 - Tenable ASM (tenable.com / tenable.io)

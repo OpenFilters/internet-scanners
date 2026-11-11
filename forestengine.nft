@@ -3,6 +3,7 @@
 # User-Agent: Mozilla/5.0 (compatible; ForestEngine/1.0; +https://forestengine.net/)
 
 define forestengine_v4 = {
+    151.245.151.0/24,
     159.65.204.129,
     188.166.75.16,
     209.38.111.38,

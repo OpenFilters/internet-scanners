@@ -1,0 +1,6 @@
+# Silent Push (silentpush.com)
+# PTR: ends with scanning.silentpush.com
+
+define silentpush_v4 = {
+    148.59.129.0/24
+}
