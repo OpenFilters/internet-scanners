@@ -98,6 +98,8 @@ define other_v4 = {
 	79.124.62.10,
 	# scanner1.gitlantern.com
 	2.31.155.11,
+	# scan.mart.fyi Minecraft server scanning
+	176.65.149.232,
 }
 
 define other_v6 = {
