@@ -41,6 +41,7 @@ List currently contains data for the following organizations:
 - Internet Measurement Research (internetmeasurementresearch.com)
 - Internet Metrics (internet-metrics.com)
 - Internet Research Project (internet-research-project.net)
+- InternetData (internetdata.io)
 - InterneTTL (internettl.org)
 - Intrinsec (intrinsec.com)
 - Intruder (intruder.io)

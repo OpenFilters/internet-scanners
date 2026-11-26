@@ -1,6 +1,9 @@
 # Internet Research Project (internet-research-project.net)
 # PTR: ends with internet-research-project.net
 # Note: These IPs appear to be temporary and change often. For reference only.
+# It is possible by the time an IP is added to this file, it had already been reassigned to another customer.
+# Reassigned IPs are removed on a best effort basis.
+# Exercise caution when making blocking decisions based on the data in this specific file.
 
 define internetresearchproject_v4 = {
 	172.104.211.111,
